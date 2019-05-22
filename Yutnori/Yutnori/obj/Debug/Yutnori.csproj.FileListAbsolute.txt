@@ -1,0 +1,63 @@
+C:\Users\김환\source\repos\Yutnori\Yutnori\bin\Debug\Yutnori.exe.config
+C:\Users\김환\source\repos\Yutnori\Yutnori\bin\Debug\Yutnori.exe
+C:\Users\김환\source\repos\Yutnori\Yutnori\bin\Debug\Yutnori.pdb
+C:\Users\김환\source\repos\Yutnori\Yutnori\obj\Debug\Yutnori.csprojAssemblyReference.cache
+C:\Users\김환\source\repos\Yutnori\Yutnori\obj\Debug\Yutnori.Form1.resources
+C:\Users\김환\source\repos\Yutnori\Yutnori\obj\Debug\Yutnori.Properties.Resources.resources
+C:\Users\김환\source\repos\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.GenerateResource.cache
+C:\Users\김환\source\repos\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.CoreCompileInputs.cache
+C:\Users\김환\source\repos\Yutnori\Yutnori\obj\Debug\Yutnori.exe
+C:\Users\김환\source\repos\Yutnori\Yutnori\obj\Debug\Yutnori.pdb
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\K_base_and_multichat\Yutnori\Yutnori\bin\Debug\Yutnori.exe.config
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\K_base_and_multichat\Yutnori\Yutnori\bin\Debug\Yutnori.exe
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\K_base_and_multichat\Yutnori\Yutnori\bin\Debug\Yutnori.pdb
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\K_base_and_multichat\Yutnori\Yutnori\obj\Debug\Yutnori.csprojResolveAssemblyReference.cache
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\K_base_and_multichat\Yutnori\Yutnori\obj\Debug\Yutnori.Form1.resources
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\K_base_and_multichat\Yutnori\Yutnori\obj\Debug\Yutnori.Properties.Resources.resources
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\K_base_and_multichat\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.GenerateResource.cache
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\K_base_and_multichat\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.CoreCompileInputs.cache
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\K_base_and_multichat\Yutnori\Yutnori\obj\Debug\Yutnori.exe
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\K_base_and_multichat\Yutnori\Yutnori\obj\Debug\Yutnori.pdb
+D:\VisualStudioProject\Yutnori\Yutnori\bin\Debug\Yutnori.exe.config
+D:\VisualStudioProject\Yutnori\Yutnori\bin\Debug\Yutnori.exe
+D:\VisualStudioProject\Yutnori\Yutnori\bin\Debug\Yutnori.pdb
+D:\VisualStudioProject\Yutnori\Yutnori\obj\Debug\Yutnori.csprojResolveAssemblyReference.cache
+D:\VisualStudioProject\Yutnori\Yutnori\obj\Debug\Yutnori.Form1.resources
+D:\VisualStudioProject\Yutnori\Yutnori\obj\Debug\Yutnori.Properties.Resources.resources
+D:\VisualStudioProject\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.GenerateResource.cache
+D:\VisualStudioProject\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.CoreCompileInputs.cache
+D:\VisualStudioProject\Yutnori\Yutnori\obj\Debug\Yutnori.exe
+D:\VisualStudioProject\Yutnori\Yutnori\obj\Debug\Yutnori.pdb
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\bin\Debug\Yutnori.exe.config
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\bin\Debug\Yutnori.exe
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\bin\Debug\Yutnori.pdb
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\obj\Debug\Yutnori.csprojAssemblyReference.cache
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\obj\Debug\Yutnori.Form1.resources
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\obj\Debug\Yutnori.Properties.Resources.resources
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.GenerateResource.cache
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.CoreCompileInputs.cache
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\obj\Debug\Yutnori.exe
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\obj\Debug\Yutnori.pdb
+C:\Users\김환\source\repos\takoyakimchi\YutGame\Yutnori\Yutnori\obj\Debug\Yutnori.Form2.resources
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\bin\Debug\Yutnori.exe.config
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\bin\Debug\Yutnori.exe
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\bin\Debug\Yutnori.pdb
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.csprojResolveAssemblyReference.cache
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.Form1.resources
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.Form2.resources
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.Properties.Resources.resources
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.GenerateResource.cache
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.CoreCompileInputs.cache
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.exe
+D:\폴더모음\▶광운대학교◀\3학년\1학기\응용소프트웨어실습\팀플\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.pdb
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\bin\Debug\Yutnori.exe.config
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\bin\Debug\Yutnori.exe
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\bin\Debug\Yutnori.pdb
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.csprojAssemblyReference.cache
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.Form1.resources
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.Form2.resources
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.Properties.Resources.resources
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.GenerateResource.cache
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.csproj.CoreCompileInputs.cache
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.exe
+C:\Users\이충렬\Desktop\깃허브 수정중_정상\Yutnori\Yutnori\obj\Debug\Yutnori.pdb
