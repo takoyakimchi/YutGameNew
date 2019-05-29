@@ -68,6 +68,11 @@ namespace Yutnori
             END_GAME    //게임종료
         }
 
+        void doNothing()
+        {
+            // test
+        }
+
         //게임 페이즈변경 함수 (인터페이스를 해당페이즈에 맞게 수정)
         void changePhase(PHASE new_phase)
         {
